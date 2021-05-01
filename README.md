@@ -1,6 +1,5 @@
 # Create A movie API with NodeJs and MongoDB
 
-____
 
 This is an Nodejs RestFul API application for movies database, 
 which can handle the creation of a new movie update the movie based on movieId,
@@ -19,13 +18,10 @@ One challenging task that I faced while creating this Rest API is CORS, which is
 
 In future we will be adding other controller for our app which helps you to understand the file structure and working of Rest API with express NodeJs.
 
-___
 
 ## Requirements
-    - NodeJs ( version 10+ )
-    - MongoDB server
-
-___
+    -   NodeJs ( version 10+ )
+    -   MongoDB server
 
 
 ## Installing the project
@@ -34,7 +30,6 @@ ___
 2. `cd moviesRestApi`
 3. `npm install`
 
-___
 
 ## How to run the app
 
@@ -42,7 +37,6 @@ ___
 2. now execute `npm start`
 3. Hurray ! thats it your server will be up and running.
 
-___
 
 ## How to use the running app
 
