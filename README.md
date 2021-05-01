@@ -7,10 +7,11 @@ read all the available movies from database, find a specific movie from database
 and delete a movie based on movieId.
 
 The technologies used in making this RestFul API application are:
-    - NodeJs ( as a javascript runtime environment )
-    - express ( JS library for building RestFul APIs' )
-    - MongoDB ( As a dataBase )
-    - mongoose ( NodeJs driver for handling the mongodb database)
+
+    1. NodeJs ( as a javascript runtime environment )
+    2. express ( JS library for building RestFul APIs' )
+    3. MongoDB ( As a dataBase )
+    4. mongoose ( NodeJs driver for handling the mongodb database)
 
 We used the above technologies because of their whole kind, their heart is JavaScript :) . And nowadays to become a fullstack in webdevelopment we need to learn frontend and backend with JavaScript, since it is an emerging technology.
 
@@ -20,8 +21,8 @@ In future we will be adding other controller for our app which helps you to unde
 
 
 ## Requirements
-    - NodeJs ( version 10+ )
-    - MongoDB server
+    1. NodeJs ( version 10+ )
+    2. MongoDB server
 
 
 ## Installing the project
@@ -43,7 +44,6 @@ In future we will be adding other controller for our app which helps you to unde
 1. Try using postman which is an api client used to test the api endpoints
 2. try to call the apiendpoints which are defined in movieController form postman in proper way :) .
 
-___
 
 ## Credits
 -   [Easy understanding tutorial of building Rest API's with express NodeJs](https://youtu.be/vjf774RKrLc)
