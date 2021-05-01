@@ -20,8 +20,8 @@ In future we will be adding other controller for our app which helps you to unde
 
 
 ## Requirements
-    -   NodeJs ( version 10+ )
-    -   MongoDB server
+    - NodeJs ( version 10+ )
+    - MongoDB server
 
 
 ## Installing the project
